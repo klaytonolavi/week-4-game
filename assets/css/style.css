@@ -1,0 +1,65 @@
+body {
+	background-color: #b5e3ea;
+}
+
+h1 {
+	background-color: #faebd7;
+	width: 330px;
+	margin: 1px;
+}
+
+#textbox {
+	background-color: #faebd7;
+	border: solid black 1px;
+	margin: 2px;
+}
+
+#scorebox {
+	background-color: #d6b396;
+	width: 30%;
+	height: 80px;
+	margin: 2px;
+
+}
+
+#scorecountbox {
+	background-color: #8b7d6b;
+	width: 100px;
+	height: 60px;
+	margin: 2px;
+}
+
+#Wins {
+	margin: 0px;
+}
+
+#Losses {
+	margin: 0px;
+}
+
+#crystalbox {
+	background-color: #7fbab8;
+	width: 30%;
+	clear: both;
+
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+#totalscore {
+	background-color: #7fbab8;
+	width: 30%;
+	height: 100px;
+	margin: 2px;
+}
+
+#scoretext {
+	margin: 0px;
+}
+
+#randomscoretext {
+	margin: 0px;
+}
