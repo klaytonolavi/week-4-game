@@ -8,13 +8,17 @@ h1 {
 	margin: 1px;
 }
 
-#textbox {
+p {
+	margin: 4px;
+}
+
+#text-box {
 	background-color: #faebd7;
 	border: solid black 1px;
 	margin: 2px;
 }
 
-#scorebox {
+#score-box {
 	background-color: #d6b396;
 	width: 30%;
 	height: 80px;
@@ -22,7 +26,7 @@ h1 {
 
 }
 
-#scorecountbox {
+#score-count-box {
 	background-color: #8b7d6b;
 	width: 100px;
 	height: 60px;
@@ -37,7 +41,7 @@ h1 {
 	margin: 0px;
 }
 
-#crystalbox {
+#crystal-box {
 	background-color: #7fbab8;
 	width: 30%;
 	clear: both;
@@ -49,17 +53,18 @@ img {
 	height: 100px;
 }
 
-#totalscore {
+#total-score {
 	background-color: #7fbab8;
 	width: 30%;
 	height: 100px;
 	margin: 2px;
 }
 
-#scoretext {
+#score-text {
 	margin: 0px;
 }
 
-#randomscoretext {
+#random-score-text {
 	margin: 0px;
 }
+
