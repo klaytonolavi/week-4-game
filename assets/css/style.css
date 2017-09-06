@@ -7,16 +7,27 @@ h1 {
 	background-color: #faebd7;
 	width: 330px;
 	margin: 1px;
+	margin: auto;
+	text-align: center;
 }
 
 p {
 	margin: 4px;
 }
 
+#start-text {
+	text-align: center;
+}
+
+#random-button {
+	margin: auto;
+}
+
 #text-box {
 	background-color: #faebd7;
 	border: solid black 1px;
 	margin: 2px;
+	text-align: center;
 }
 
 #score-box {
